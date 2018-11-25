@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.16.1
+Date: 27. 08. 2018
+  Changes:
+    - Add Japanese locale file for the following mods.
+       - functioning-mod
+       - Nuclear Fuel
+---------------------------------------------------------------------------------------------------
+Version: 0.16.0
+Date: 26. 08. 2018
+  Changes:
+    - initial release
