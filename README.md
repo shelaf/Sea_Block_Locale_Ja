@@ -21,4 +21,3 @@ The following mods are translated. These dependencies are optional.
 * Nuclear Fuel
 * SeaBlock
 * SpaceMod
-* what-is-it-really-used-for

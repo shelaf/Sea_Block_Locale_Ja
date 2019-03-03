@@ -1,4 +1,14 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.17.0
+Date: 3. 3. 2019
+  Changes:
+    - Update to Factorio 0.17.
+    - Update locale.
+      - Nuclear Fuel
+      - Space Extension mod
+    - Deleted as it was officially supported.
+      - what-is-it-really-used-for
+---------------------------------------------------------------------------------------------------
 Version: 0.16.2
 Date: 13. 12. 2018
   Changes:
