@@ -1,6 +1,6 @@
 {
   "name": "SeaBlock_localeja",
-  "version": "0.17.3",
+  "version": "0.17.4",
   "factorio_version": "0.17",
   "title": "Sea Block locale translations for ja",
   "author": "shela",
@@ -14,7 +14,7 @@
     "? functioning-mod >= 0.1.7",
     "? LandfillPainting >= 0.2.4",
     "? LoaderRedux >= 1.4.3",
-    "? Nuclear Fuel >= 0.2.0",
+    "? Nuclear Fuel >= 1.1.0",
     "? SeaBlock >= 0.2.13",
     "? SpaceMod >= 0.4.1"
   ]
