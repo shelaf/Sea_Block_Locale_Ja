@@ -1,21 +1,21 @@
 {
   "name": "SeaBlock_localeja",
-  "version": "0.17.5",
-  "factorio_version": "0.17",
+  "version": "0.18.0",
+  "factorio_version": "0.18",
   "title": "Sea Block locale translations for ja",
   "author": "shela",
   "homepage": "https://mods.factorio.com/mod/SeaBlock_localeja",
   "description": "Sea Block locale translations for Japanese",
   "dependencies": [
-    "base >= 0.17",
+    "base >= 0.18",
     "? A Sea Block Config >= 0.2.4",
-    "? Explosive Excavation >= 1.1.5",
-    "? CircuitProcessing >= 0.1.2",
+    "? Explosive Excavation >= 1.1.7",
+    "? CircuitProcessing >= 0.3.0",
     "? functioning-mod >= 0.1.7",
-    "? LandfillPainting >= 0.2.4",
-    "? LoaderRedux >= 1.4.3",
-    "? Nuclear Fuel >= 1.1.0",
+    "? LandfillPainting >= 0.4.0",
+    "? LoaderRedux >= 1.5.0",
+    "? Nuclear Fuel >= 1.1.1",
     "? SeaBlock >= 0.2.13",
-    "? SpaceMod >= 0.4.1"
+    "? SpaceMod >= 0.5.0"
   ]
 }
