@@ -1,6 +1,6 @@
 {
   "name": "SeaBlock_localeja",
-  "version": "0.18.0",
+  "version": "0.18.1",
   "factorio_version": "0.18",
   "title": "Sea Block locale translations for ja",
   "author": "shela",
@@ -11,7 +11,7 @@
     "? A Sea Block Config >= 0.2.4",
     "? Explosive Excavation >= 1.1.7",
     "? CircuitProcessing >= 0.3.0",
-    "? functioning-mod >= 0.1.7",
+    "? functioning-mod >= 0.1.9",
     "? LandfillPainting >= 0.4.0",
     "? LoaderRedux >= 1.5.0",
     "? Nuclear Fuel >= 1.1.1",

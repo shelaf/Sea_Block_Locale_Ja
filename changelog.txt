@@ -1,4 +1,13 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.18.1
+Date: 2. 15. 2020
+  Changes:
+    - Update locale.
+      - functioning-mod
+      - Loader Redux
+      - Nuclear Fuel
+      - Space Extension mod
+---------------------------------------------------------------------------------------------------
 Version: 0.18.0
 Date: 2. 9. 2020
   Changes:
@@ -56,8 +65,8 @@ Version: 0.16.1
 Date: 27. 08. 2018
   Changes:
     - Add Japanese locale file for the following mods.
-       - functioning-mod
-       - Nuclear Fuel
+      - functioning-mod
+      - Nuclear Fuel
 ---------------------------------------------------------------------------------------------------
 Version: 0.16.0
 Date: 26. 08. 2018
