@@ -1,4 +1,16 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 1. 30. 2021
+  Changes:
+    - Update to Factorio 1.1.
+    - Update locale.
+      - Nuclear Fuel
+      - Sea Block
+    - Remove locale.
+      - Circuit Processing
+      - Landfill Painting
+
+---------------------------------------------------------------------------------------------------
 Version: 0.18.2
 Date: 2. 15. 2020
   Changes:

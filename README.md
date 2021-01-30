@@ -13,10 +13,8 @@ This software is released under the Apache License Version 2.0, see LICENSE.
 The following mods are translated. These dependencies are optional.
 
 * A Sea Block Config
-* Circuit Processing
 * Explosive Excavation
 * Functions-mod
-* Landfill Painting
 * Loader Redux
 * Nuclear Fuel
 * Sea Block
